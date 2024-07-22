@@ -32,3 +32,4 @@ For any inquiries, please contact the key team members:
 Athenassio Aluko - CEO & Founder: aluko@globenarena.com
 Ola Aina - Lead Help Desk: ailaona@globenarena.com
 Taranda Green - Managing Director: taranda@globenarena.com
+Hosted on https://globbenaidd.netlify.app/
